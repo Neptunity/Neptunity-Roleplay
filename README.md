@@ -1,5 +1,8 @@
 # How to install?
-Install forge with the included installer. 
-Once done drop the content of the downloaded ".minecraft" folder into your minecraft main game folder. 
-Start minecraft launcher and launch the forge 1.12.2 installation.
-Join our server and have fun.
+You need Java for this to work. 
+First, create a 1.12.2 installation on your local desktop. 
+Run the .jar file and install forge with the included installer.
+Make sure you close all your open minecraft instances and launcher. 
+Restart the launcher and if you don't see a 1.12.2 forge installstion
+then create one. 
+Join our server at roleplay.neptunity.land and have fun. 
