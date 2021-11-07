@@ -1,4 +1,5 @@
 # How to install?
+If you already have a working 1.12.2 forge then you can skip this step. 
 You need Java for this to work. 
 First, create a 1.12.2 installation on your local desktop. 
 Run the .jar file and install forge with the included installer.
