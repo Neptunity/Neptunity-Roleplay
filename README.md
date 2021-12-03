@@ -4,3 +4,4 @@ Once you downloaded the mods as mentioned in the "main" branch, put them into a 
 If you have Forge installed but you can not see the "mods" folder, then feel free to create one. 
 If you put the mods in the folder and close all your minecraft instances and restart the launcher then it should work. 
 Disclaimer: Make sure you do not put the .zip in the mods but the contents of the folder located in the .zip file (a bunch of .jar files). 
+Note: We have large mod files. You can download them here: https://download1502.mediafire.com/fro94sm9qeag/jdeijfucebs21aa/Large+Mod+Files+%28Neptunity+RolePlay%29.zip
